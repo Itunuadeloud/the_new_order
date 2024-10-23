@@ -31,7 +31,7 @@ import os
 def generate_prp(fuel_type, density, specific_heat):
     # Set the path for FCEA2.exe and the input/output files
     fcea_exe_path = './FCEA2.exe'  # Adjust the path if needed
-    input_file = 'input.txt'
+    input_file = input.txt#'input.txt'
     prp_file = 'output.prp'
     
     # Prepare input file for FCEA2.exe in a format it expects
