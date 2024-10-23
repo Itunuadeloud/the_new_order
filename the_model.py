@@ -65,6 +65,6 @@ if file:
     print(f".prp file generated: {file}")
 
 # # Example use
-# file = generate_prp("Jet A", 800, 4.2)
-# if file:
-#     print(f".prp file generated: {file}")
+ file = generate_prp("Jet A", 800, 4.2)
+ if file:
+     print(f".prp file generated: {file}")
