@@ -1,5 +1,5 @@
 import streamlit as st
-from generate_prp import generate_prp  # The Python script to interact with FCEA2.exe
+from the_model import generate_prp  # The Python script to interact with FCEA2.exe
 
 # Streamlit Web App
 st.title("Fuel Property Input for .prp File Generation")
