@@ -1,1 +1,6 @@
+prob rocket fac yes
+fuel Jet_A wt%=100
+ox  O2(L) wt%=100
+output short
+end
 
